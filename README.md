@@ -3,7 +3,7 @@
 A curated list of awesome F-Droid applications. This is inspired by o?ther "awesome-\*" projects
 
 - Awesome-F-Droid
-    - [Ad blockers](#ad-blockers)
+  - [Ad blockers](#ad-blockers)
 
 ## Ad blockers
 
