@@ -2,10 +2,9 @@
 
 A curated list of awesome F-Droid applications. This is inspired by o?ther "awesome-\*" projects
 
-## Contents
+- Awesome-F-Droid
+    - [Ad blockers](#ad-blockers)
 
-- [Ad blockers](#ad_blockers)
-
-### Ad blockers
+## Ad blockers
 
 - [Adaway](https://f-droid.org/fr/packages/org.adaway/)
