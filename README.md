@@ -4,7 +4,10 @@ A curated list of awesome F-Droid applications. This is inspired by o?ther "awes
 
 - Awesome-F-Droid
   - [Ad blockers](#ad-blockers)
+  - [Other](#other)
 
 ## Ad blockers
 
 - [Adaway](https://f-droid.org/fr/packages/org.adaway/)
+
+## Other
