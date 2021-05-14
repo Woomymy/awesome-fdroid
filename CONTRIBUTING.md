@@ -7,7 +7,7 @@
 
 ## Adding a link
 
-Add a link in the right section, with a short and concise description. If you don't know where to put your app, add it in the "Other" section. 
+Add a link in the right section, with a short and concise description. If you don't know where to put your app, add it in the "Other" section.
 
 Link syntax:
 
@@ -16,4 +16,3 @@ Link syntax:
 If needed, add the section with a "h2" heading (`##`) and add its link the Table of contents
 
 Thanks, all your contributions are welcome!
-
