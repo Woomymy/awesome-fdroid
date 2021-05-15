@@ -8,6 +8,6 @@ A curated list of awesome F-Droid applications
 
 ## Utilities
 
-- [App maanger](https://f-droid.org/packages/io.github.muntashirakon.AppManager/) - A full-featured open source package manager for android.
+- [App mananger](https://f-droid.org/packages/io.github.muntashirakon.AppManager/) - A full-featured open source package manager for android.
 
 ## Other
