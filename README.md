@@ -9,7 +9,7 @@ A curated list of awesome F-Droid applications
 
 ## Ad blockers
 
-- [Adaway](https://f-droid.org/packages/org.adaway) - A free ad blocker for Android
+- [Adaway](https://f-droid.org/packages/org.adaway) - A free ad blocker
 
 ## Utilities
 
