@@ -4,12 +4,17 @@ A curated list of awesome F-Droid applications
 
 - Awesome-F-Droid
   - [Ad blockers](#ad-blockers)
+  - [Communication](#communication)
   - [Utilities](#utilities)
   - [Other](#other)
 
 ## Ad blockers
 
 - [Adaway](https://f-droid.org/packages/org.adaway) - A free ad blocker
+
+## Communication
+
+- [QKSMS](https://f-droid.org/packages/com.moez.QKSMS) - A replacement of the stock AOSP messasing app
 
 ## Utilities
 
