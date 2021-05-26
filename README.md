@@ -5,6 +5,7 @@ A curated list of awesome F-Droid applications
 - Awesome-F-Droid
   - [Ad blockers](#ad-blockers)
   - [Communication](#communication)
+  - [Keyboards](#keyboards)
   - [Utilities](#utilities)
   - [Other](#other)
 
@@ -15,6 +16,10 @@ A curated list of awesome F-Droid applications
 ## Communication
 
 - [QKSMS](https://f-droid.org/packages/com.moez.QKSMS) - A replacement of the stock AOSP messasing app
+
+## Keyboards
+
+- [Florisboard](https://f-droid.org/packages/dev.patrickgold.florisboard/) - Customisable keyboard which respects your privacy
 
 ## Utilities
 
