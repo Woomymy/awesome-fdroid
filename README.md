@@ -6,6 +6,7 @@ A curated list of awesome F-Droid applications
   - [Ad blockers](#ad-blockers)
   - [Communication](#communication)
   - [Keyboards](#keyboards)
+  - [Photography](#photography)
   - [Utilities](#utilities)
   - [Other](#other)
 
@@ -20,6 +21,10 @@ A curated list of awesome F-Droid applications
 ## Keyboards
 
 - [Florisboard](https://f-droid.org/packages/dev.patrickgold.florisboard/) - Customisable keyboard which respects your privacy
+
+## Photography
+
+- [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/) - Gallery app that encrypt your photos and can be hidden
 
 ## Utilities
 
