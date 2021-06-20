@@ -18,6 +18,8 @@ A curated list of awesome F-Droid applications
 
 - [QKSMS](https://f-droid.org/packages/com.moez.QKSMS) - A replacement of the stock AOSP messasing app
 
+- [Revolution IRC](https://f-droid.org/packages/io.mrarm.irc/) - Next-gen IRC client made with design and functionality in mind
+
 ## Keyboards
 
 - [Florisboard](https://f-droid.org/packages/dev.patrickgold.florisboard/) - Customisable keyboard which respects your privacy
