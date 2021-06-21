@@ -7,6 +7,7 @@ A curated list of awesome F-Droid applications
   - [Communication](#communication)
   - [Keyboards](#keyboards)
   - [Photography](#photography)
+  - [Tweaks](#tweaks)
   - [Utilities](#utilities)
   - [Other](#other)
 
@@ -27,6 +28,10 @@ A curated list of awesome F-Droid applications
 ## Photography
 
 - [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/) - Gallery app that encrypt your photos and can be hidden
+
+## Tweaks
+
+- [Auto Auto-Rotate](https://f-droid.org/packages/com.jarsilio.android.autoautorotate/) - Automatically remembers your auto-rotate setting for every app
 
 ## Utilities
 
