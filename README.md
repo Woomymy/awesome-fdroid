@@ -38,3 +38,5 @@ A curated list of awesome F-Droid applications
 - [App manager](https://f-droid.org/packages/io.github.muntashirakon.AppManager/) - A full-featured open source package manager
 
 ## Other
+
+- [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - Libre card wallet app
