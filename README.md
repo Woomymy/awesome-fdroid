@@ -36,6 +36,7 @@ A curated list of awesome F-Droid applications
 ## Utilities
 
 - [App manager](https://f-droid.org/packages/io.github.muntashirakon.AppManager/) - A full-featured open source package manager
+- [CleanSlate](https://f-droid.org/packages/com.destructo.botox/) - Remotely wipe your Android device if lost or stolen
 
 ## Other
 
